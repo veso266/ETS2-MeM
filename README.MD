@@ -1,4 +1,4 @@
-# That is how you wish a gamer happy bithday
+# That is how you wish happy bithday to a gamer 
 
 I have a friend (have to ask her on that :fearful: )
 which I wanted to wish happy birthsday to, in a unique way so I knew she sometimes plays Euro Truck Simulator 2 (This should also work on American Truck Simulator, although I didn't test it) and I am familiar with that game (actually playing it) so why not write a nice message to her in the game
