@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETS2-MeM", "ETS2-MeM\ETS2-MeM.csproj", "{BAFFB40E-8DD9-4B33-B3BA-FF0ED618097B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capture", "Capture\Capture.csproj", "{23178A3D-2AC0-419A-B1B6-59CA45191270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCSSdkClient", "SCSSdkClient\SCSSdkClient.csproj", "{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFFB40E-8DD9-4B33-B3BA-FF0ED618097B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFFB40E-8DD9-4B33-B3BA-FF0ED618097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFFB40E-8DD9-4B33-B3BA-FF0ED618097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFFB40E-8DD9-4B33-B3BA-FF0ED618097B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23178A3D-2AC0-419A-B1B6-59CA45191270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23178A3D-2AC0-419A-B1B6-59CA45191270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23178A3D-2AC0-419A-B1B6-59CA45191270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23178A3D-2AC0-419A-B1B6-59CA45191270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62F8E57-9D8C-4EA2-90E4-1F6B09DCE468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A458077E-5E9A-4DBD-AD42-1769E982986D}
+	EndGlobalSection
+EndGlobal

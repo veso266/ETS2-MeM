@@ -1,0 +1,1147 @@
+19:12:26: Injection to the target process failed. See InnerException for more detail.
+19:13:12: Process attached: eurotrucks2 (Width: 0; Height: 0)
+19:24:06: Process attached: eurotrucks2 (Width: 0; Height: 0)
+19:27:50: Process attached: eurotrucks2 (Width: 0; Height: 0)
+20:05:54: Process attached: eurotrucks2 (Width: 0; Height: 0)
+20:08:37: Process attached: eurotrucks2 (Width: 0; Height: 0)
+20:09:32: Process attached: eurotrucks2 (Width: 0; Height: 0)
+20:22:31: Process attached: eurotrucks2 (Width: 0; Height: 0)
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:15: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:23:25: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+20:26:05: Hide overlay
+13:09:42: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:10:10: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:10: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:11: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:11: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:12: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:12: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:13: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:13: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:14: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:14: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:15: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:15: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:16: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:16: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:17: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:17: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:18: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:18: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:19: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:19: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:20: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:20: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:21: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:21: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:22: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:22: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:23: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:23: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:24: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:24: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:25: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:25: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:26: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:26: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:27: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:27: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:28: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:28: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:29: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:29: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:30: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:30: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:31: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:31: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:32: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:32: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:33: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:33: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:34: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:34: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:35: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:35: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:36: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:36: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:37: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:37: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:38: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:38: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:39: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:39: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:40: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:40: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:41: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:41: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:42: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:42: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:43: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debug\web\C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:10:43: System.NotSupportedException: The given path's format is not supported.
+   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.Security.Permissions.FileIOPermission.QuickDemand(FileIOPermissionAccess access, String fullPath, Boolean checkForDuplicates, Boolean needFullPath)
+   at System.IO.Path.GetFullPath(String path)
+   at System.Drawing.IntSecurity.UnsafeGetFullPath(String fileName)
+   at System.Drawing.IntSecurity.DemandReadFileIO(String fileName)
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 122
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:10:47: Hide overlay
+13:16:32: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:16:39: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:16:39: System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath, Int32 showTime) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 117
+13:16:40: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:16:40: System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath, Int32 showTime) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 117
+13:16:41: C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\bin\Debugwolf.jpg
+13:16:41: System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(String filename)
+   at ETS2_MeM.Hooks.MemWritter.DrawMEM(String text, Brush color1, String coloredText, Brush color2, String logoPath, Int32 showTime) in C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\MemWritter.cs:line 117
+13:16:45: Hide overlay
+13:16:45: Hide overlay
+13:16:45: Hide overlay
+13:18:14: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:19:25: Hide overlay
+13:21:35: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:22:36: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:24:21: Hide overlay
+13:41:19: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:41:33: Hide overlay
+13:43:16: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:44:31: Hide overlay
+13:45:15: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:46:44: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:48:32: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:49:01: Hide overlay
+13:50:51: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:55:01: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:55:32: Hide overlay
+13:56:31: Process attached: eurotrucks2 (Width: 0; Height: 0)
+13:56:41: Hide overlay
+13:56:41: Hide overlay
+13:56:41: Hide overlay
+13:56:41: Hide overlay
+14:34:06: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:34:19: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:35:10: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:06: Hide overlay
+14:36:25: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:37:36: Hide overlay
+14:38:59: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:16: Hide overlay
+14:39:34: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:05: Hide overlay
+14:40:06: Hide overlay
+14:40:06: Hide overlay
+14:41:14: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:41:27: Hide overlay
+14:41:27: Hide overlay
+14:41:27: Hide overlay
+14:41:38: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:41:58: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:42:05: Hide overlay
+14:42:05: Hide overlay
+14:42:39: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:42:51: Hide overlay
+14:42:51: Hide overlay
+14:42:51: Hide overlay
+14:42:51: Hide overlay
+14:42:51: Hide overlay
+14:42:51: Hide overlay
+14:43:06: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:21: Hide overlay
+14:43:39: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:45:09: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:45:24: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:45:54: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:09: Hide overlay
+14:46:35: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:47:20: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:47:37: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:04: Hide overlay
+14:48:34: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:48:48: Hide overlay
+14:51:21: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:51:32: Hide overlay
+14:51:32: Hide overlay
+14:51:32: Hide overlay
+14:52:26: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:52:55: Hide overlay
+14:53:17: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:53:56: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:54:03: Hide overlay
+14:57:22: Process attached: eurotrucks2 (Width: 0; Height: 0)
+14:57:33: Hide overlay
+14:57:33: Hide overlay
+14:57:33: Hide overlay
+14:57:33: Hide overlay
+14:59:42: Process attached: eurotrucks2 (Width: 0; Height: 0)
+15:01:29: Process attached: eurotrucks2 (Width: 0; Height: 0)
+15:02:06: Hide overlay
+15:03:49: Process attached: eurotrucks2 (Width: 0; Height: 0)
+15:06:57: Process attached: eurotrucks2 (Width: 0; Height: 0)
+15:07:23: Hide overlay
+15:07:23: Hide overlay
+15:07:23: Hide overlay
+15:07:23: Hide overlay
+15:07:43: Process attached: eurotrucks2 (Width: 0; Height: 0)
+15:08:02: Hide overlay
+15:08:02: Hide overlay
+15:31:51: No capture process bound
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+15:32:11: Hide overlay
+16:09:03: No capture process bound
+16:09:12: Hide overlay
+16:09:12: Hide overlay
+16:09:12: Hide overlay
+16:09:12: Hide overlay
+16:09:12: Hide overlay
+16:09:12: Hide overlay
+11:29:36: No capture process bound
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay
+11:30:00: Hide overlay

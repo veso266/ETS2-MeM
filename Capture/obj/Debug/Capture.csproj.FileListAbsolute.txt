@@ -1,0 +1,35 @@
+F:\Downloads\Direct3DHook\bin\EasyHook32.dll
+F:\Downloads\Direct3DHook\bin\EasyHook32Svc.exe
+F:\Downloads\Direct3DHook\bin\EasyHook64.dll
+F:\Downloads\Direct3DHook\bin\EasyHook64Svc.exe
+F:\Downloads\Direct3DHook\bin\EasyLoad32.dll
+F:\Downloads\Direct3DHook\bin\EasyLoad64.dll
+F:\Downloads\Direct3DHook\bin\sharpdx_direct3d11_1_effects_x64.dll
+F:\Downloads\Direct3DHook\bin\sharpdx_direct3d11_1_effects_x86.dll
+F:\Downloads\Direct3DHook\bin\Capture.dll
+F:\Downloads\Direct3DHook\bin\Capture.pdb
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.csprojAssemblyReference.cache
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.Properties.Resources.resources
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.csproj.GenerateResource.cache
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.csproj.CoreCompileInputs.cache
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.csproj.CopyComplete
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.dll
+F:\Downloads\Direct3DHook\Capture\obj\Debug\Capture.pdb
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\EasyHook32.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\EasyHook32Svc.exe
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\EasyHook64.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\EasyHook64Svc.exe
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\EasyLoad32.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\EasyLoad64.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\sharpdx_direct3d11_1_effects_x64.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\sharpdx_direct3d11_1_effects_x86.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\Capture.dll.config
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\Capture.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\bin\Capture.pdb
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.csprojAssemblyReference.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.Properties.Resources.resources
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.csproj.GenerateResource.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.csproj.CoreCompileInputs.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.csproj.CopyComplete
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\Capture\obj\Debug\Capture.pdb

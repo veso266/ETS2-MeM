@@ -1,0 +1,6 @@
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\plugins\Ets2SdkClient\bin\Debug\Ets2SdkClient.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\plugins\Ets2SdkClient\bin\Debug\Ets2SdkClient.pdb
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\plugins\Ets2SdkClient\obj\Debug\Ets2SdkClient.csprojAssemblyReference.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\plugins\Ets2SdkClient\obj\Debug\Ets2SdkClient.csproj.CoreCompileInputs.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\plugins\Ets2SdkClient\obj\Debug\Ets2SdkClient.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\ETS2-MeM\plugins\Ets2SdkClient\obj\Debug\Ets2SdkClient.pdb

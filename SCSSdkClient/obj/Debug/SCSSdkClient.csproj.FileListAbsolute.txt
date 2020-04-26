@@ -1,0 +1,14 @@
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\bin\Debug\SCSSdkClient.xml
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\bin\Debug\SCSSdkClient.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\bin\Debug\SCSSdkClient.pdb
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\obj\Debug\SCSSdkClient.csprojAssemblyReference.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\obj\Debug\SCSSdkClient.csproj.CoreCompileInputs.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\obj\Debug\SCSSdkClient.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\Try 2\Ets2-Timer\SCSSdkClient\obj\Debug\SCSSdkClient.pdb
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\bin\Debug\SCSSdkClient.xml
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\bin\Debug\SCSSdkClient.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\bin\Debug\SCSSdkClient.pdb
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\obj\Debug\SCSSdkClient.csprojAssemblyReference.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\obj\Debug\SCSSdkClient.csproj.CoreCompileInputs.cache
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\obj\Debug\SCSSdkClient.dll
+C:\Users\Mitja\Documents\Visual Studio 2017\Projects\Game Hacking\ETS2-MeM\SCSSdkClient\obj\Debug\SCSSdkClient.pdb
